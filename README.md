@@ -1,6 +1,8 @@
 # Plane Fight！（by pygame）
 第一次小组作业：pygame实现的飞机大战
 
+**注：pygame暂时只支持python3.4 32位版本以下的，安装文件已上传到pygame and python3.4 install file 文件夹里面**
+
 ### 小组成员
 
 **组长：毛俊杰**
