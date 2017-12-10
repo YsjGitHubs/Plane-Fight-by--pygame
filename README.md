@@ -5,6 +5,7 @@
 
 **组长：毛俊杰**
 **组员：张苏月、王晶、张彩妮、王骞卉、马梦媛**
+**素材设计：张苏月**
 
 设计流程：
 ### 对游戏的大体框架进行分析：
@@ -52,3 +53,12 @@
 
 ## **程序设计**
 **由上述分析可知，代码量较大较复杂，而且需要图形化界面，所以我们采用pygame图形库来开发，并进行模块式开发
+
+***
+### 游戏效果
+ ![alt text](https://github.com/schrodingercatss/Plane-Fight-by--pygame/blob/master/images/20171202162449.png)
+ ![alt text](https://github.com/schrodingercatss/Plane-Fight-by--pygame/blob/master/images/20171202162502.png)
+
+
+
+
