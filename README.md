@@ -57,6 +57,8 @@
 ***
 ### 游戏效果
  ![alt text](https://github.com/schrodingercatss/Plane-Fight-by--pygame/blob/master/images/20171202162449.png)
+ 
+ 
  ![alt text](https://github.com/schrodingercatss/Plane-Fight-by--pygame/blob/master/images/20171202162502.png)
 
 
